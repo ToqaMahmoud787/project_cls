@@ -16,4 +16,4 @@ namespace DAL.DataAcess_Contracts
             void Delete(int id);
         }
     
-}
+} 
